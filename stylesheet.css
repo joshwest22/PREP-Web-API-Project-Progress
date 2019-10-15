@@ -1,0 +1,15 @@
+body
+{
+    padding: 4px;
+    background-color: cadetblue;
+    font-size: 24px;
+}
+ img
+{
+    width: 35%;
+    height: 60%
+}
+h1
+{
+    text-align: center;
+}
